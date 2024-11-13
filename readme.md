@@ -1,6 +1,7 @@
 # DR/SOCIAL: Multi-Agent Temporal Evolution in Semi-Supervised Non-Linear Social Dynamics
 
 https://x.com/DarkroomsSocial
+https://social-dr.com/
 
 ## Abstract
 
