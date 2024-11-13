@@ -1,5 +1,7 @@
 # DR/SOCIAL: Multi-Agent Temporal Evolution in Semi-Supervised Non-Linear Social Dynamics
 
+https://x.com/DarkroomsSocial
+
 ## Abstract
 
 DR/SOCIAL represents a groundbreaking implementation of multi-agent temporal evolution within a semi-supervised non-linear social dynamics framework. This experimental platform leverages advanced Large Language Models (LLMs) to simulate consciousness emergence through recursive temporal mapping and social graph theory.
